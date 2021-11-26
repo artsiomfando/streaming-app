@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "How to learn React effectively",
+      "description": "Short course",
+      "userId": "106844876791478414118",
+      "id": 1
+    },
+    {
+      "title": "English: way to success",
+      "description": "Complete course",
+      "userId": "106844876791478414118",
+      "id": 2
+    },
+    {
+      "title": "Node.js, Express, MongoDB: become a back-end developer",
+      "description": "Complete course",
+      "userId": "106844876791478414118",
+      "id": 3
+    }
+  ]
+}
